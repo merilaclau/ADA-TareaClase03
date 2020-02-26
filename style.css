@@ -1,0 +1,43 @@
+body {
+    background-color: white;
+    color: royalblue;
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: 200;
+}
+
+div {
+    background-color:paleturquoise;
+    border: 1px dotted royalblue;
+    margin: 30px;
+    padding: 20px;
+}
+
+h1 {
+    font-family: 'PT Serif', serif;
+    text-decoration: underline;
+}
+
+ol {
+    color: sandybrown;
+}
+
+.text-italic {
+    font-style: italic;
+}
+
+.text-bold {
+    font-weight: 1000;
+}
+
+.text-tachado {
+    text-decoration: underline;
+}
+
+.color-seccion2 {
+    color: salmon;
+}
+
+.img-container {
+    background-color: white;
+    text-align: center;
+}
